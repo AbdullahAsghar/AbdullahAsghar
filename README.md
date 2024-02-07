@@ -5,7 +5,7 @@
 🌱 Currently learning Data Analysis through Python.<br>
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-asghar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-asghar/) 
 [![Email](https://img.shields.io/badge/Email-%23ff0000?style=flat&logo=mail.ru&logoColor=white)](mailto:abdullah.asghar@khi.iba.edu.pk)
 
 ## 💻 Tech Stack:
