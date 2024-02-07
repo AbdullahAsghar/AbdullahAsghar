@@ -1,5 +1,5 @@
 # Hi, I am Abdullah!
-🔭 Passionate about start-ups, with previous experience at Dastgyr Technologies & Daraz.<br>
+🔭 Passionate about start-ups, with previous experience at Dastgyr Technologies & Daraz (Alibaba Group).<br>
 🛠️ Expertise in Logistics, SCM + Data Analytics.<br>
 🤝 Love solving complex business problems with the help of data.<br>
 🌱 Currently learning Data Analysis through Python.<br>
