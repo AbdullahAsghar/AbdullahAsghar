@@ -9,8 +9,7 @@
 [Email me](mailto:abdullah.asghar@khi.iba.edu.pk)
 
 ### Data Analytics Tools:
-- [x] Microsoft SQL Server
-- [x] Postgres
+- [x] SQL
 
 ### Data Visualization:
 - [x] Power BI
