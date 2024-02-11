@@ -1,6 +1,6 @@
 # Hi, Abdullah here!
 🔭 Passionate about start-ups, with previous experience at [Dastgyr Technologies](https://www.linkedin.com/company/dastgyr/) & [Daraz (Alibaba Group)](https://www.linkedin.com/company/daraz).<br>
-🛠️ Expertise in Logistics, SCM + Data Analytics.<br>
+🛠️ Building expertise in Data Analytics, specifically in Logistics and SCM since 2021.<br>
 🤝 Love solving complex business problems with the help of data.<br>
 🌱 Currently learning Data Analysis through Python.<br>
 
