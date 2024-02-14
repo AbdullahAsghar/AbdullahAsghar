@@ -20,6 +20,6 @@
 
 | Repository | Brief Overview |
 |:-:|:-:|
-| [SQL_Portfolio](https://https://github.com/AbdullahAsghar/SQL_Portfolio)|The repo includes all projects and assessments I have completed with SQL.<br>IDE/s used: MS SQL Server.<br>More details in repo.| 
+| [SQL_Portfolio](https://github.com/AbdullahAsghar/SQL_Portfolio)|The repo includes all projects and assessments I have completed with SQL.<br>IDE/s used: MS SQL Server.<br>More details in repo.| 
 
 
