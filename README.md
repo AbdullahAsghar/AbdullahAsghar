@@ -8,12 +8,10 @@
 [View my LinkedIn profile](https://www.linkedin.com/in/abdullah-asghar/) <br>
 [Email me](mailto:abdullah.asghar@khi.iba.edu.pk)
 
-### Data Analytics Tools:
+### Data Tools I use:
 - [x] SQL
-
-### Data Visualization:
 - [x] Power BI
-- [x] Tableau
+- [x] Google Big Query
 - [x] Google Looker Studio
 
 ### How to navigate my Github Portfolio?
