@@ -10,8 +10,8 @@
 
 ### Data Tools I use:
 - [x] SQL
+- [x] Python
 - [x] Power BI
-- [x] Google Big Query
 - [x] Google Looker Studio
 
 ### How to navigate my Github Portfolio?
