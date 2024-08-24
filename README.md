@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [View my LinkedIn profile](https://www.linkedin.com/in/abdullah-asghar/) <br>
-[Visit my website](https://www.abdullahasghar.com/)
+[Visit my website](https://www.abdullahasghar.com/) <br>
 [Email me](mailto:abdullah.asghar@khi.iba.edu.pk)
 
 ### Data Tools I use:
